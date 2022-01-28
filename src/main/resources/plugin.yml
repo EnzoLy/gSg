@@ -1,0 +1,7 @@
+name: gSG
+main: live.ghostly.survivalgames.SG
+version: 1.0-BETA
+author: EnzoL_
+load: STARTUP
+depend:
+  - WorldGenerator
